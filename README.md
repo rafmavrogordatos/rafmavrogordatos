@@ -1,6 +1,6 @@
 <p>
   🔥 Hey there! 🔥 <br>
-  I'm @rafmavrogordatos, a 🚀 <strong>backend developer</strong> 🚀 with a passion for building robust and scalable systems. 
+  I'm @rafmavrogordatos, a 🚀 <strong>web developer</strong> 🚀 with a passion for building robust and scalable systems. 
   I'm currently 🧑‍💼 learning Laravel 🧑‍💼 and always on the lookout for new ways to improve my skills. 
 </p>
 
