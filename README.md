@@ -10,7 +10,7 @@
 
 <ul>
   <li>💻 Proficiency in PHP and object-oriented programming concepts</li>
-  <li>🏆 Experience with the Laravel framework</li>
+  <li>🏆 Experience with the PHP framework</li>
   <li>🧑‍🏫 Understanding of MVC design patterns</li>
   <li>🗄️ Experience with database design and implementation (e.g. MySQL, PostgreSQL)</li>
   <li>🧑‍💼 Ability to write clean, maintainable, and efficient code</li>
